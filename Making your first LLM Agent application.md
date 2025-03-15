@@ -22,3 +22,7 @@ Think of this as **writing a script vs. running commands interactively**:
 - **Fused approach (Plan-and-Execute Together)** → The LLM executes commands immediately, which can fail unpredictably.
 
 This structured planning method makes it easier to debug, retry failed steps, and maintain flexibility in execution.
+
+
+## Lang Flow
+This is an opensource framework use to make a basic POC for making agents and llm based applications. This is a node based system for quick drag and drop.
