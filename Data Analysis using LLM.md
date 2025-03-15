@@ -1,4 +1,4 @@
-[[Making your first LLM Agent application]] [[LLM Creation]]
+[[Making your first LLM Agent application]] [[LLM Creation]] 
 [Github repo] [https://github.com/Vishwas3000/llm_application]
 ## Basics about the project (LLM Application)
 
@@ -123,3 +123,12 @@ If you were to use LangChain, much of your code could be replaced with library c
 ### Conclusion
 
 This project is a sophisticated implementation of an LLM-powered data analysis system. It demonstrates several advanced concepts in AI application development, including agent design, tool use, memory systems, and prompt engineering. The skills you're developing here are at the cutting edge of AI application development.
+
+
+```python
+ollama list # to list all the installed LLM
+python test_ollama_connection.py # to test the python connection with the deployed ollama LLM
+python app.py check-ollama # test the empty prompt to check the app setup with LLM
+ollama serve # to start the LLM
+python app.py analyze data/sample.csv # to run the agent on a choosen data
+``` 
