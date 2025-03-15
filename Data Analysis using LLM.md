@@ -1,5 +1,21 @@
 [[Making your first LLM Agent application]] [[LLM Creation]] 
 [Github repo] [https://github.com/Vishwas3000/llm_application]
+
+## To do 
+- [ ] Create a Vector data base for storing large number of data
+- [ ] Figure out a way to post process the response
+- [ ] Setup proper tools for the agent to use
+- [ ] Setup a good prompts system 
+	- [ ] Structure the prompt from the user before feeding it into the LLM
+- [ ] Setup proper response system 
+	- Response type
+		- Code response
+		- Basic analysis response 
+			- Value based
+			- Text based
+	- [ ] Handle the Data that need to render the graphs
+	- [ ] Handle non-graph data
+	- [ ] Handle regular response
 ## Basics about the project (LLM Application)
 
 ### Understanding Your Data Analysis Agent Project
