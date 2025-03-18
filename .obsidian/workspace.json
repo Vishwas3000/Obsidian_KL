@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis using LLM.md",
+                "file": "Create a local MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Analysis using LLM"
+              "title": "Create a local MongoDB"
+            }
+          },
+          {
+            "id": "5db93806524eb823",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,15 +187,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "928d9ccd52952b23",
+  "active": "5db93806524eb823",
   "lastOpenFiles": [
+    "Create a local MongoDB.md",
     "Data Analysis using LLM.md",
+    "LLM Creation.md",
     "Untitled.canvas",
     "AgentCreation.md",
     "LangChain.md",
     "Making your first LLM Agent application.md",
     "Langchain Anthropic.md",
-    "LLM Creation.md",
     "n8n.md"
   ]
 }

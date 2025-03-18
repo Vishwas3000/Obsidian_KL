@@ -3,6 +3,7 @@
 
 ## To do 
 - [ ] Create a Vector data base for storing large number of data
+- [ ] Retrive data from a data base 
 - [ ] Figure out a way to post process the response
 - [ ] Setup proper tools for the agent to use
 - [ ] Setup a good prompts system 
