@@ -1,4 +1,4 @@
- [[AgentCreation]] [[Langchain Anthropic]]
+ [[AgentCreation]]
 It is a Open Source  orchestration framework that uses LLM
 Development languages:
 - Py

@@ -17,6 +17,11 @@
 	- [ ] Handle the Data that need to render the graphs
 	- [ ] Handle non-graph data
 	- [ ] Handle regular response
+
+#### Handling smaller data
+- [ ] Setup the agent to write sql  
+
+
 ## Basics about the project (LLM Application)
 
 ### Understanding Your Data Analysis Agent Project

@@ -21,6 +21,9 @@
 
 - `mongoimport --db mydatabase --collection users --type csv --headerline --file users.csv`
 - `db.users.stats()` - provides meta data about the collections
+- `db.users.deleteMany({})` - delete all 
+	- `db.users.drop()`
+- 
 
 ## Connect to this DB for python
 
